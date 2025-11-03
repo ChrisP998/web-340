@@ -1,0 +1,11 @@
+{
+    "name": "recipe-app",
+    "version": "1.0.0",
+    "description": "A recipe application using Node.js",
+    "main": "index.js",
+    "scripts": {
+    "start": "node index.js",
+    "test": "node tester.js"
+  },
+  "author": "Christopher Phan"
+}
